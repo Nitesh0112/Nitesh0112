@@ -71,13 +71,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh0112&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-lovat-three-31.vercel.app/api?username=Nitesh0112&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh0112&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-lovat-three-31.vercel.app/api/top-langs/?username=Nitesh0112&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
