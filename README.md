@@ -106,7 +106,7 @@ Practice interviews with AI
 
 - 📧 Email: rnitesh0112@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: https://nitesh0112.github.io/
 
 ---
 
