@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Nitesh+Kumar+AI+Developer+Full+Stack+Developer+Java+%7C+Python+%7C+React+FastAPI+%7C+LangChain+%7C+MERN+Open+to+AI+Internships)](https://git.io/typing-svg)
 # Hi 👋, I'm Nitesh Kumar
 
 ## 🚀 AI Developer | Full Stack Developer
