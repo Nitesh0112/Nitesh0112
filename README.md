@@ -67,6 +67,17 @@
 - Postman
 
 ---
+## 📊 GitHub Stats
+
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh0112&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh0112&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nitesh0112&theme=tokyonight&hide_border=true)
 
 ## 🚀 Featured Projects
 
