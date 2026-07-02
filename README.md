@@ -67,13 +67,18 @@
 - Postman
 
 ---
+
 ## 📊 GitHub Stats
 
-![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh0112&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh0112&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh0112&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh0112&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🔥 GitHub Streak
 
