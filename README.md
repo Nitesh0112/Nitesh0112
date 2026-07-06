@@ -123,7 +123,7 @@ Practice interviews with AI
 ## 📫 Connect with Me
 
 - 📧 Email: rnitesh0112@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/niteshk09/
 - 🌐 Portfolio: https://nitesh0112.github.io/
 
 ---
