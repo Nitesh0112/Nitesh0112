@@ -92,6 +92,12 @@ Full Stack MERN Hotel Booking Platform
 
 ---
 
+### 🎤 AI Interview Simulator 
+
+Practice interviews with AI
+
+---
+
 ### 🤖 AI Resume Analyzer *(Coming Soon)*
 
 ATS Resume Analyzer using LLM
@@ -101,12 +107,6 @@ ATS Resume Analyzer using LLM
 ### 📄 Multi PDF Chatbot *(Coming Soon)*
 
 Chat with PDFs using RAG
-
----
-
-### 🎤 AI Interview Simulator *(Coming Soon)*
-
-Practice interviews with AI
 
 ---
 
